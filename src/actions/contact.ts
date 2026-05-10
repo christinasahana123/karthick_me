@@ -9,12 +9,9 @@ const contactSchema = z.object({
 });
 
 export const sendContactEmail = createServerFn({ method: "POST" })
+  .inputValidator(contactSchema)
   .handler(async ({ data }) => {
-    const result = contactSchema.safeParse(data);
-    if (!result.success) {
-      throw new Error("Invalid form data");
-    }
-    const { name, email, message } = result.data;
+    const { name, email, message } = data;
     
     const apiKey = process.env.RESEND_API_KEY;
     if (!apiKey) {
