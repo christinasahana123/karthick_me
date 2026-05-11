@@ -26,11 +26,10 @@ export function Hero() {
             Hi, I'm <span className="bg-clip-text text-transparent" style={{ backgroundImage: "var(--gradient-brand)" }}>Muthukarthik</span>
           </h1>
           <p className="text-xl text-muted-foreground">
-            Digital Marketer · Meta Ads Specialist · Social Media Manager
+            Digital Marketing Manager · Meta Ads Specialist · CRM & Team Leader
           </p>
           <p className="text-base text-muted-foreground max-w-xl">
-            3+ years driving real estate lead generation, Meta Ads, CRM follow-ups,
-            and full lead-to-sales conversion. ₹10L monthly budgets handled · ₹20Cr+ revenue generated.
+            Multidimensional Digital Marketing Manager with 3+ years of experience in handling high-budget campaigns, CRM management, and team leadership. Specialized in Meta Ads strategy, performance marketing, and end-to-end campaign execution.
           </p>
           <div className="flex flex-wrap gap-4 pt-2">
             <a
@@ -72,8 +71,8 @@ export function Hero() {
             />
           </div>
           <div className="absolute -bottom-2 -right-2 md:bottom-4 md:right-4 px-4 py-3 rounded-2xl bg-card border border-border" style={{ boxShadow: "var(--shadow-card)" }}>
-            <div className="text-2xl font-bold text-accent">₹20Cr+</div>
-            <div className="text-xs text-muted-foreground">Revenue Generated</div>
+            <div className="text-2xl font-bold text-accent">₹5–10Cr</div>
+            <div className="text-xs text-muted-foreground">Sales Generated</div>
           </div>
           <div className="absolute -top-2 -left-2 md:top-4 md:left-0 px-4 py-3 rounded-2xl bg-card border border-border" style={{ boxShadow: "var(--shadow-card)" }}>
             <div className="text-2xl font-bold" style={{ color: "var(--brand-glow)" }}>3+ yrs</div>

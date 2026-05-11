@@ -3,23 +3,23 @@ import { Card, SectionHeading } from "./About";
 const blocks = [
   {
     icon: "📈",
-    title: "Meta Ads",
-    items: ["Facebook & Instagram Ads", "Lead Generation Campaigns", "Retargeting Funnels", "Budget Scaling", "Campaign Optimization"],
-  },
-  {
-    icon: "📱",
-    title: "Page Management",
-    items: ["FB Page Maintenance", "Instagram Handling", "Content Planning", "Post Engagement", "Brand Presence"],
+    title: "Paid Ads Specialist",
+    items: ["Meta Ads – ₹10L+ Monthly Budgets", "Facebook & Instagram Ads", "Lead Generation Campaigns", "Retargeting Funnels", "Campaign Optimization"],
   },
   {
     icon: "🎯",
-    title: "CRM & Sales Funnel",
-    items: ["Sell.do CRM Mastery", "Lead Assignment", "Follow-up Tracking", "Telecalling Coordination", "Sale Closure Monitoring"],
+    title: "Campaign Strategy",
+    items: ["End-to-End Campaign Planning", "Creative Shoots & Execution", "Performance Tracking", "A/B Testing", "Budget Scaling"],
+  },
+  {
+    icon: "🔗",
+    title: "CRM & Lead Funnel",
+    items: ["Sell.Do CRM Management", "Lead Assignment & Follow-up", "Telecalling Coordination", "Enquiry to Sale Closure", "Pipeline Monitoring"],
   },
   {
     icon: "👥",
-    title: "Team Management",
-    items: ["Graphic Designers", "Video Editors", "Content Writers", "Telecalling Team", "Sales Team"],
+    title: "Team Leadership",
+    items: ["20-Member Telecaller Team", "Website & Design Collaboration", "Graphic & Video Teams", "Creative Planning & Execution", "Cross-functional Coordination"],
   },
 ];
 

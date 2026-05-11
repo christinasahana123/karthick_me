@@ -2,15 +2,15 @@ import { SectionHeading } from "./About";
 
 const stats = [
   { value: "3+", label: "Years Experience", sub: "Digital Marketing" },
-  { value: "₹10L", label: "Monthly Ad Budget", sub: "Meta Ads Handled" },
-  { value: "₹20Cr+", label: "Revenue Generated", sub: "For Clients" },
-  { value: "4+", label: "Industries", sub: "Real Estate · F&B · Education" },
+  { value: "₹10L+", label: "Monthly Ad Budget", sub: "Meta Ads Handled" },
+  { value: "₹5–10Cr", label: "Sales Generated", sub: "For Clients" },
+  { value: "3+", label: "Industries", sub: "Real Estate · Agency · Social Media" },
 ];
 
 const industries = [
-  { title: "Real Estate", desc: "Plot sales, villa projects, gated communities, DTCP/RERA & luxury campaigns." },
-  { title: "Restaurant", desc: "Local brand awareness, offer promotions and customer lead generation." },
-  { title: "Education", desc: "School admissions, IAS academy promotions and student enquiry funnels." },
+  { title: "Real Estate", desc: "VIP Grand Properties — plot sales, villa projects, school admissions, and hotel campaigns with Sell.Do CRM integration." },
+  { title: "Digital Agency", desc: "Ozias Tech Solution — multi-client campaigns across diverse industries with paid ads, social media, and creative execution." },
+  { title: "Social Media", desc: "Chennai Adman — social media planning, content creation, and campaign execution to support brand promotions." },
 ];
 
 export function Achievements() {

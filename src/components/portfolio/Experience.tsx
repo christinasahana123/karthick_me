@@ -2,33 +2,36 @@ import { Card, SectionHeading } from "./About";
 
 const jobs = [
   {
-    period: "2024 — Present",
-    role: "Senior Digital Marketing Manager",
-    company: "Real Estate (Plot & Villa Projects)",
+    period: "Dec 2023 — Present",
+    role: "Digital Marketing Manager",
+    company: "VIP Grand Properties, Chennai",
     points: [
-      "Managed monthly Meta Ads budgets up to ₹10 Lakhs across DTCP/RERA projects",
-      "Led to ₹20Cr+ revenue with quality lead-to-sale conversion",
-      "Owned Sell.do CRM, telecalling coordination & sales closure tracking",
+      "Managed ₹10L+ monthly Meta Ads, generating ₹5–10 Cr sales",
+      "Led 20-member telecaller team for lead follow-up & conversions",
+      "Oversaw end-to-end campaigns: ads, creatives, shoots, and execution",
+      "Managed Sell.Do CRM from enquiry to sales closure",
+      "Collaborated with website & design teams for landing pages and creatives",
+      "Executed campaigns for Real Estate, School Admissions, and Hotels",
     ],
   },
   {
-    period: "2023 — 2024",
-    role: "Performance Marketer",
-    company: "IAS Academy & Education Brands",
+    period: "Mar 2023 — Sep 2023",
+    role: "Digital Marketing Executive",
+    company: "Ozias Tech Solution, Anna Nagar",
     points: [
-      "Scaled student enquiry campaigns with optimized retargeting funnels",
-      "Built creative pipelines with designers & video editors",
-      "Improved cost-per-lead by 38% in 4 months",
+      "Worked in a digital marketing agency managing campaigns for multiple clients across industries",
+      "Creative idea for digital marketing",
+      "Planned and executed paid ads, social media campaigns, and creative content for diverse brands",
+      "Handling social media campaign",
     ],
   },
   {
     period: "2022 — 2023",
-    role: "Social Media & Ads Specialist",
-    company: "Restaurant & Local Brands",
+    role: "Social Media Executive",
+    company: "Chennai Adman, Alandur",
     points: [
-      "Managed Facebook & Instagram pages end-to-end",
-      "Ran offer & awareness campaigns generating consistent foot traffic",
-      "Planned weekly content calendar & engagement strategy",
+      "Assisted in social media planning & campaign execution",
+      "Created engaging posts to support promotions",
     ],
   },
 ];
